@@ -10,18 +10,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </div>
 
-<h2>Contato</h2>
-
-<div>
-  <a href="mailto:thi.purcino.militao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thiagohenriquepurcinomilitao/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-
 <h2>Contribution</h2>
 
 
@@ -30,3 +18,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//p2ms/p2ms/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/p2ms/p2ms/output/github-contribution-grid-snake.svg">
 </picture>
+
+<h2>Contato</h2>
+
+<div>
+  <a href="mailto:henriquethiago2077@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thiagohenriquepurcinomilitao/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
