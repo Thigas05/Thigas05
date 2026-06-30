@@ -3,14 +3,6 @@
 🎓Estudante de Ciências da Computação <br>
 💻 Desenvolvedor Júnior Front-end <br>
 🤝Sempre querendo aprender mais e sendo o mais proativo <br>
-
-<h2>Estatísticas</h2>
-<div>
-  <a href="https://github.com/Thigas05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thigas05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigas05&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
     
 <h2>Linguagens</h2>
 
@@ -21,13 +13,14 @@
 <h2>Contato</h2>
 
 <div>
-  <a href="https://www.linkedin.com/in/thiagohenriquepurcinomilitao/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="mailto:thi.purcino.militao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/__.pams/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/thiagohenriquepurcinomilitao/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 
 <h2>Contribution</h2>
 
