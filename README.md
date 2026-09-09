@@ -1,7 +1,6 @@
 <h2>😄Sobre mim:</h2>
 👾Entusiasta na área de tecnologia <br>
 🎓Estudante de Ciências da Computação <br>
-💻 Desenvolvedor Júnior Front-end <br>
 🤝Sempre querendo aprender mais e sendo o mais proativo <br>
     
 <h2>Linguagens</h2>
