@@ -6,7 +6,7 @@
 <h2>Linguagens</h2>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
 </div>
 
 <h2>Contribution</h2>
